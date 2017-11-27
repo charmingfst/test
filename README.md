@@ -1,8 +1,11 @@
 hello world
 <<<<<<< HEAD
 
-hehe
+heheaaa
 
+hehebbb
+
+chm
 
 =======
 hehewaaaa
