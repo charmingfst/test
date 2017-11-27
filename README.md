@@ -1,10 +1,23 @@
 hello world
-<<<<<<< HEAD
+
 
 hehe
 
 
-=======
+heheaaa
+
+
+hehebbb
+
+
+heheccc
+
+
+chm
+
+
 hehewaaaa
->>>>>>> 0aa4cef... Update README.md
+
+0aa4cef... Update README.md
+
 
