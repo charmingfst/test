@@ -11,6 +11,7 @@ hehewddd
 
 
 
+
 heheaaa
 
 
@@ -23,9 +24,14 @@ heheccc
 chm
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+=
+
+>>>>>>> f25349a... edit2
 
 
