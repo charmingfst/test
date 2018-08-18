@@ -1,1 +1,2 @@
-print "hello jenkins"
+println "hello jenkins"
+print "hello world"
